@@ -1,0 +1,63 @@
+body{
+  
+}  
+#logo{
+   height: 90px;
+}
+
+ul {
+    list-style-type: none;
+ 
+  }
+
+  li {
+    display: inline;
+  }
+
+  #menu {
+      background-color: rgb(226, 43, 58);
+      height: 60px;
+      font-size: 24px;
+  }
+ 
+  
+  .bilderE{
+    max-width: 300px;
+
+  }
+
+  #bilder h1 {
+    max-width: 300px;
+  }
+
+  #topdiv
+  {
+    width: 100%;
+  }
+
+  .topdivs{
+
+    display: inline;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 33.3%;
+    padding: 10px;
+  
+  }
+
+  #menutop {
+    background-color: thistle;
+    width: 300px;
+
+    
+  }
+
+  a{
+    color: white;
+  }
+  #huvudbild{
+    height: 300px;
+    width: 100%;
+    background-image: url('https://helsingborg.se/wp-content/uploads/2017/05/aker_1920x373px_farg_komprimerad-1800x349.jpg'); background-position: 50% 40%;"
+   
+  }
